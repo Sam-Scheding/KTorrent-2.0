@@ -1,0 +1,11 @@
+{
+    "TAB_NAMES": [
+        "Downloads"
+    ],
+    "DOWNLOADS_COL_NAMES": ["title", "seeders", "peers", "progress", "download rate", "upload rate", "status"],
+    "BASE_DIR": "/home/darik/projects/ktorrent",
+    "TORRENT_CLIENT_UPDATE_INTERVAL": 1,
+    "APP_NAME": "KTorrent",
+    "LOCAL_DEBUG": true,
+    "DOWNLOADS_DIR": "/home/darik/projects/ktorrent/Downloads"
+}

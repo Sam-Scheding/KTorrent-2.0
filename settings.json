@@ -1,0 +1,27 @@
+{
+    "SETTINGS_FILE": "settings.json",
+    "DOWNLOADS_COL_NAMES": [
+        "title",
+        "progress",
+        "download rate",
+        "upload rate",
+        "seeders",
+        "peers",
+        "status"
+    ],
+    "DOWNLOADS_DIR": "/home/darik/projects/ktorrent/Downloads",
+    "APP_NAME": "KTorrent",
+    "BASE_DIR": "/home/darik/projects/ktorrent",
+    "RESULTS_COL_NAMES": [
+        "title",
+        "seeders",
+        "peers",
+        "file size",
+        ".torrent size"
+    ],
+    "LOCAL_DEBUG": true,
+    "TAB_NAMES": [
+        "Downloads"
+    ],
+    "TORRENT_CLIENT_UPDATE_INTERVAL": 1
+}
