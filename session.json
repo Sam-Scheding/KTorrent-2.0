@@ -1,10 +1,11 @@
 {
-    "APP_NAME": "KTorrent",
+    "TORRENT_CLIENT_UPDATE_INTERVAL": 1,
     "DOWNLOADS": [],
-    "LOCAL_DEBUG": true,
+    "DOWNLOADS_DIR": "/home/darik/projects/ktorrent/Downloads",
     "TAB_NAMES": [
         "Downloads"
     ],
+    "LOCAL_DEBUG": true,
     "DOWNLOADS_COL_NAMES": [
         "title",
         "seeders",
@@ -14,7 +15,6 @@
         "upload rate",
         "status"
     ],
-    "TORRENT_CLIENT_UPDATE_INTERVAL": 1,
-    "DOWNLOADS_DIR": "/home/darik/projects/ktorrent/Downloads",
+    "APP_NAME": "KTorrent",
     "BASE_DIR": "/home/darik/projects/ktorrent"
 }
